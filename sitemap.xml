@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://Hugo-Chalnl.github.io/sitemap.xml</loc>
-    
-      <lastmod>2023-02-21T12:20:21+08:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://Hugo-Chalnl.github.io/</loc>
+  </url><url>
+    <loc>http://Hugo-Chalnl.github.io/categories/</loc>
+  </url><url>
+    <loc>http://Hugo-Chalnl.github.io/</loc>
+  </url><url>
+    <loc>http://Hugo-Chalnl.github.io/series/</loc>
+  </url><url>
+    <loc>http://Hugo-Chalnl.github.io/tags/</loc>
+  </url>
+</urlset>
